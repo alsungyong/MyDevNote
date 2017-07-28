@@ -10,10 +10,8 @@ multiconference.
 
 .. note::
 
-a year ago @jenkinskurento [faq] Specify that all ports should be open for STUN to work in AWS	
-This tutorial has been configured to use https. Follow the `instructions <../../mastering/securing-kurento-applications.html#configure-java-applications-to-use-https>`_
-2 years ago @jenkinskurento First version of securing kurento applications	
-to secure your application.
+This tutorial has been configured to use https. Follow the `instructions <../../mastering/securing-kurento-applications.html#configure-java-applications-to-use-https>`_to secure your application.
+
 For the impatient: running this example
 =======================================
 
